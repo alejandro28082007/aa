@@ -1,0 +1,12 @@
+#botao {
+    background-color: aqua;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+    color: red;
+}
+
+#botao:hover{
+    background-color: aquamarine;
+    color: blue;
+}
